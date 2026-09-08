@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "singular-coil-475714-q5",
-  "private_key_id": "7c9943f27d5741d5a060baa9cd955107ec96271c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiXzlVOD8C99RN\n0pLHngx2EJTqPiWFO2kWDsv+TYOqL9qWJQX36t862frVbKrA/xU+7/WCjo0OkjQN\nnl0UwlOBDHjG/kaj+0rNMAbcfnn41t77WBbNFs+YVv1MHMxQITtq21xm0INu3pR9\nsF/o6cOeJ9GUoVT2DJYon3dDi8U6NmDUqLICpmWn870nA65jpdbSK2xOeyDTC569\ntKC2GOeKxjChdxfCsXT7rhJlwg7Txyj2YZgv2EvLlMi1HwthE0kWG4U9YTIP6ZPB\nBvfgGZE0EIegbVCbomam9FC3mjnLoqq8ktgfv5Jt5Hy6Lkc0YiybUO1ALCZU7pJz\nfkt3//AFAgMBAAECggEAG59RdJLt/UZF4rtY5waXHhqyCqtp3KF/vhXkVC3BoVkk\nuXgw7L0THsLobhhfcBe0+JD/1icEDh+HJW30bcylQgXqIggt4kWkswVhlW8att9u\n7ZlNv7QKuuLJkoIvq84LeqE4tfDw+xJ4dm1j0465DZW+jKdpebYocV63flEvyzgh\nbnfK0mzE6IpJ7iJks7KFIOnfRNk/yuwdWj5+tao4L1jnZ38+IkHe4CSRKmeX2dRp\nWsJFRH+0ArbKb9/iIMEOf1uDKDE7X9W5fSIqTU1GJYvaRG5vhQM3Tr5gBW3Ir2Ia\n2buLzdwy90UVPzdDFQoelIPpTPUZik9fZKWl0b2XfQKBgQDbyiAAhjIAcHhfrl6F\nCtWugN2BW0nOdKLtxMdTtnuz7WSzg6umu6YCE45GqPq9YzrJ8/wtpJXDQmILpk5o\nH5Wf6AHwESkaLcxWjErSWDc7Z8JEaRmdtLoesuAUnMkExpSK4cgL7VtBafe9FntD\nRbfcAewu/88kAoqabNkMyS7aRwKBgQC9H3Jp7riy45komo1anuMa2iIUZvoD55t0\nC/c4ppfa4LPVyQc4I9DNNvzLjetW03A3Qj0Aw8TxsOFtevUODxvQtesM7L55oTL/\n1SdAwK2a0zeaiG87JXvq3hyqyN8Sx67xXGbhA4bmmZxqrJ6kOJMKWENKzZGOleB/\nOVgPU7H9UwKBgEuy9gq4LYiRNCRgPhW8gZQ0thXThzwgV+1klPJ0K27xGHnro7ct\nciPM8HfNw25vOtRLwFNIGHzD5Fj20pJyLmqA0goJHwrxMyur7ik8UOmY9wPw3u2+\nTUw9d4gh5+pJKugak3foLEH/aWAq2hF1dbnEv8AAQyu35F0DmE4bDJQJAoGAIlNt\n2cpJXbavms4Kb/M8tyf2XYufP0wvS+3MDk02bLSyD1BwbgEaKdUcJvn4SAcSbAUq\nu1PNEC0RjWRuzAF0A/qw0eS6YasfbY3LlRYjrGE/y12OCscv6Z4sx9aznl3947Lo\nvVh9iKdC252/IYFfNtZ0SERtcdrEJ3NKB2YifR8CgYACgVHvUMA0Jdlu+ahoSxVG\nj/KrXJ8pVDTK4WWrsD0PaweDs4tFBSeALzqBqdMZ9b/59DmxAl0+U26ut7GDnQg5\nIVJMO/4qD8tynyJwGaytXZbDEaRZC0vRFkpSJpgEb6m5/ERkDRA/rQawM0YIRptJ\naeba2OY2zNlIuQw/Z5DYDA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "simdik-gcs-storage@singular-coil-475714-q5.iam.gserviceaccount.com",
-  "client_id": "111999784390907656383",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/simdik-gcs-storage%40singular-coil-475714-q5.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": "",
+  "universe_domain": ""
 }
