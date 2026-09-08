@@ -30,3 +30,57 @@ This project was developed as an **Undergraduate Thesis / Capstone Project** uti
 - **Tools & Environment**: Composer, Git, VS Code
 
 ---
+
+## 🚀 Installation & Local Setup
+
+Follow these steps to set up and run the project in your local development environment:
+
+### 1. System Requirements
+Ensure you have the following installed on your machine:
+- PHP >= 8.x
+- Composer
+- MySQL Database Server (e.g., via XAMPP or Laragon)
+- Git
+
+### 2. Clone the Repository
+`git clone [https://github.com/mettawijayawu/SIMDIK.git](https://github.com/mettawijayawu/SIMDIK.git)`
+`cd SIMDIK`
+
+### 3. Install PHP Dependencies
+`composer install`
+
+### 4. Configure Environment (.env)
+Duplicate the `.env.example` file to create a `.env` file:
+`cp .env.example .env`
+
+Open `.env` and set up your local database configuration:
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=simdik_db
+- DB_USERNAME=root
+- DB_PASSWORD=
+
+### 5. Generate Application Key
+`php artisan key:generate`
+
+### 6. Run Database Migrations & Seeders
+Execute database migrations and populate seed data (if applicable):
+`php artisan migrate --seed`
+
+### 7. Start the Development Server
+`php artisan serve`
+
+Access the application in your browser at: `[http://127.0.0.1:8000](http://127.0.0.1:8000)`
+
+---
+
+## 👨‍💻 Author
+
+- **Metta Wijaya Wu** - *Lead Developer* - [@mettawijayawu](https://github.com/mettawijayawu)
+
+---
+
+## 📜 License
+
+This project was created for academic purposes (Undergraduate Thesis Project).
