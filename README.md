@@ -1,11 +1,11 @@
-# 🎓 SIMDIK — Educational Management & Institutional Data System
+# 🎓 SIMDIK — New Student Management Information System
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-**SIMDIK** (*Sistem Informasi Manajemen Pendidikan*) is a web-based management information system designed to centralize, streamline, and manage educational administrative and operational data efficiently.
+**SIMDIK** (*Sistem Informasi Manajemen Peserta Didik Baru*) is a web-based management information system designed to centralize, streamline, and manage educational administrative and operational data efficiently.
 
 This project was developed as an **Undergraduate Thesis / Capstone Project** utilizing the **Agile Scrum** software development methodology.
 
@@ -77,7 +77,7 @@ Access the application in your browser at: `[http://127.0.0.1:8000](http://127.0
 
 ## 👨‍💻 Author
 
-- **Metta Wijaya Wu** - *Lead Developer* - [@mettawijayawu](https://github.com/mettawijayawu)
+- **MettaWijaya** - *Lead Developer* - [@mettawijayawu](https://github.com/mettawijayawu)
 
 ---
 
